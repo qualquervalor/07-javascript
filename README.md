@@ -1,4 +1,4 @@
-07-javascript
+MakerSquare_07-javascript
 =============
 
 This is an assignment from the 7th day of MakerSquare 10 week course on web development.
